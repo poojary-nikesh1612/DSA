@@ -1,5 +1,4 @@
-package ArrayEasy;
-import java.util.TreeSet;
+package Array.ArrayEasy;
 import java.util.ArrayList;
 
 public class UnionOf2SortedArray {

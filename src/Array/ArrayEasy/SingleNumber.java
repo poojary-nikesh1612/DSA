@@ -1,4 +1,4 @@
-package ArrayEasy;
+package Array.ArrayEasy;
 
 public class SingleNumber {
 

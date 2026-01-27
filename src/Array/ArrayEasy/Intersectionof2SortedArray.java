@@ -1,4 +1,4 @@
-package ArrayEasy;
+package Array.ArrayEasy;
 
 import java.util.ArrayList;
 import java.util.Arrays;
